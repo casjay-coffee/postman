@@ -63,3 +63,5 @@ dist
 build
 
 .vercel
+# ignore commit message
+.gitcommit
